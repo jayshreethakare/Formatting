@@ -10,7 +10,6 @@ def organized(a, b):
         # spaces to each set of values 
         print("{:6d} {:6d} {:6d} {:6d}"
         .format(i, i ** 2, i ** 3, i ** 4)) 
-  
 # Driver Code 
 n1 = int(input("Enter lower range :-\n")) 
 n2 = int(input("Enter upper range :-\n")) 
